@@ -395,7 +395,7 @@ html {
 .irs-bar,
 .irs-bar-edge,
 .irs-slider {
-  background: url(/lib/range-slider/sprite-skin.png) repeat-x; }
+  background: url(../lib/range-slider/sprite-skin.png) repeat-x; }
 
 .irs {
   height: 40px; }
